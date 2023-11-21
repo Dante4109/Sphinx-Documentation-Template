@@ -1,2 +1,2 @@
-# dante4109.github.io
-Repository exists to host developer documentation and other important notes
+# AC_Docs
+Developer Documentation for the Affinity Core Game Client and Web App

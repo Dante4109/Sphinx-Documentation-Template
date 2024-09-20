@@ -40,7 +40,7 @@ publish:
 - Generates a new build folder with the local project files. 
 - Generates a docs folder with a producton ready copy of the static site. 
 
-  *note: The docs folder is where you want to point your hosting platform of choice.*
+  *Note: The docs folder is where you want to point your hosting platform of choice.*
 
 server:
  - Run the python live server via localhost. While the server is running, changes made to the source code can be seen instantly by refreshing the page. 
